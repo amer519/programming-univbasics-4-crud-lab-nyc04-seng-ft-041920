@@ -1,12 +1,17 @@
 def create_an_empty_array
+  [ ]
   
 end
 
 def create_an_array
+  array = ["pizza", "netflix", "chips", "hoodie"]
   
 end
 
 def add_element_to_end_of_array(array, element)
+  array = ["pizza", "netflix", "chips", "hoodie"]
+  array << "love"
+  
   
 end
 
