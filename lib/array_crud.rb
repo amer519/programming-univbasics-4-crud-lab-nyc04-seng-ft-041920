@@ -10,7 +10,8 @@ end
 
 def add_element_to_end_of_array(array, element)
   
-  
+  array = ["box", "blue", "house", "car"]
+  array.push ("cat")
   
 end
 
